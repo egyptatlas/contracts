@@ -1,8 +1,8 @@
 {
-  "name": "BestBankGlobal",
+  "name": "EgyptToken",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "BestBankGlobal",
+  "author": "EgyptToken",
   "license": "MIT",
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "^2.0.5",
