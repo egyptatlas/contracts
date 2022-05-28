@@ -1,8 +1,16 @@
 # EgyptAtlas Project
 
-EgyptAtlas is a Community-first Web3 Sport App with inbuilt Game-Fi and Ride to Earn element
+Egypt Atlas - Discover our Metaverse
 
-EgyptAtlas is built around an essential daily activity for most people – moving around. We are the first project to effectively bring to life a functioning ride & earn concept.
+It is your time to play, earn, enjoy and live in Egypt Ancient Metaverse
+
+Build and own your team, your Pyramids, your assets
+
+Developing a metaverse virtual world that helps people all over the world learn about
+
+Egypitan Civilization in the most authentic way
+
+All those who want to learn about the pyramids or the land of the pharaoh will go through the platform to experience travel here
 
 Try running some of the following tasks:
 
