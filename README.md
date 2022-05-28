@@ -1,8 +1,8 @@
-# Palmare Project
+# EgyptAtlas Project
 
-Palmare is a Community-first Web3 Sport App with inbuilt Game-Fi and Ride to Earn element
+EgyptAtlas is a Community-first Web3 Sport App with inbuilt Game-Fi and Ride to Earn element
 
-Palmare is built around an essential daily activity for most people – moving around. We are the first project to effectively bring to life a functioning ride & earn concept.
+EgyptAtlas is built around an essential daily activity for most people – moving around. We are the first project to effectively bring to life a functioning ride & earn concept.
 
 Try running some of the following tasks:
 
